@@ -19,3 +19,8 @@ For Each player In dictPlayers
   End If
 Next
 ```
+
+### Here Is A Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
